@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariom Tiwari</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • C++ & DSA • Open to Software Engineering Opportunities
+Software Engineer • Full Stack MERN Developer • C++ & DSA
 </h3>
 
 <p align="center">
