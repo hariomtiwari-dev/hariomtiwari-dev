@@ -8,6 +8,7 @@ Full Stack MERN Developer • C++ & DSA • Open to Software Engineering Opportu
 I enjoy building scalable full-stack web applications using the MERN stack.
 Currently learning TypeScript, Redux Toolkit, and exploring Large Language Models (LLMs) while building modern full-stack applications.
 </p>
+
 ## 🛠 Tech Stack
 
 C++ • JavaScript • React • Node.js • Express.js • MongoDB • HTML • CSS • Tailwind CSS • Git • GitHub • VS Code
