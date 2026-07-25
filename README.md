@@ -19,6 +19,6 @@ C++ • JavaScript • React • Node.js • Express.js • MongoDB • HTML •
   
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/hariomtiwari003)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hariomtiwari-dev)
 - 💻 [LeetCode](https://leetcode.com/u/hariomtiwari_003/)
 - 📧 [hariompstiwari@gmail.com](mailto:hariompstiwari@gmail.com)
