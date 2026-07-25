@@ -11,13 +11,23 @@ Currently learning TypeScript, Redux Toolkit, and exploring Large Language Model
 
 ---
 
-# 👨‍💻 About Me
+---
 
-- 🎓 B.Tech Information Technology Student
-- 💻 Passionate about Full Stack Web Development
-- 🚀 Building scalable web applications using the MERN Stack
-- 🌱 Currently learning TypeScript, Redux Toolkit & Large Language Models (LLMs)
-- 🎯 Goal: Become a Software Development Engineer
+## 🛠 Tech Stack
+
+C++ • JavaScript • React • Node.js • Express.js • MongoDB • HTML • CSS • Tailwind CSS • Git • GitHub • VS Code
 
 ---
 
+## 🚀 Featured Projects
+
+- 📄 Resume Builder (MERN Stack)
+- 🛒 E-Commerce Platform (MERN Stack)
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: linkedin.com/in/hariomtiwari003
+- 💻 LeetCode: leetcode.com/u/hariomtiwari_003/
+- 📧 hariompstiwari@gmail.com
