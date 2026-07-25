@@ -14,9 +14,9 @@ C++ • JavaScript • React • Node.js • Express.js • MongoDB • HTML •
 
 ## 🚀 Featured Projects
 
-- 📄 Resume Builder (MERN Stack)
-- 🛒 E-Commerce Platform (MERN Stack)
-
+- 📄 [Resume Builder (MERN Stack)](https://github.com/hariomtiwari-dev/college_Development)
+- 🛒 [E-Commerce Platform (MERN Stack)](https://github.com/hariomtiwari-dev/college_Development)
+  
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/hariomtiwari003)
