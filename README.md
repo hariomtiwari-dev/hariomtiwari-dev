@@ -14,7 +14,7 @@ C++ • JavaScript • React • Node.js • Express.js • MongoDB • HTML •
 
 ## 🚀 Featured Projects
 
-- 📄 [Resume Builder (MERN Stack)](https://github.com/hariomtiwari-dev/college_Development)
+- 📄 [WonderLust (MERN Stack)](https://wanderlust-sh9a.onrender.com/)
 - 🛒 [E-Commerce Platform (MERN Stack)](https://github.com/hariomtiwari-dev/college_Development)
   
 ## 📫 Connect
