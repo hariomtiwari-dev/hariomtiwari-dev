@@ -14,7 +14,7 @@ C++ • JavaScript • React • Node.js • Express.js • MongoDB • HTML •
 
 ## 🚀 Featured Projects
 
-- 📄 [WonderLust (MERN Stack)](https://wander-lust-olive.vercel.app)
+- 📄 [WonderLust (MERN Stack)](https://wander-lust-olive.vercel.app/listings)
 - 🛒 [E-Commerce Platform (MERN Stack)](https://github.com/hariomtiwari-dev/college_Development)
   
 ## 📫 Connect
